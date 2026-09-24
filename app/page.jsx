@@ -48,7 +48,7 @@ const projects = [
     title: "Silence Kills",
     category: "Awareness poster",
     summary: "Een poster over femicide, zonder het onderwerp te versieren.",
-    text: "Ik koos paars en roze, kleuren die verbonden zijn met vrouwenrechten. De vrouw is een eenvoudig silhouet. De verticale tekst voelt bewust ongemakkelijk; dat past bij de ernst van het onderwerp.",
+    text: "Ik koos paars en roze, kleuren die verbonden zijn met vrouwenrechten. De vrouw is een illustratie. De verticale tekst voelt bewust ongemakkelijk; dat past bij de ernst van het onderwerp.",
     image: { src: "/work/silencekills.jpg", width: 1556, height: 2200, alt: "Awareness poster Silence Kills over femicide" },
   },
   {
@@ -69,14 +69,15 @@ const projects = [
     title: "Ronaldo",
     category: "Sportposter",
     summary: "Een minimalistische sportposter rond Cristiano Ronaldo.",
-    text: "De opdracht vroeg om een compositie met maar één duidelijk onderwerp. Ik werkte met een uitgelichte actiefoto op een dieprode gradient-achtergrond met subtiele lijnstructuren, zodat rugnummer en houding alle aandacht krijgen zonder dat het beeld druk wordt.",
+    text: "De opdracht vroeg om een compositie met maar een duidelijk onderwerp. Ik werkte met een uitgelichte actiefoto op een dieprode gradient-achtergrond met subtiele lijnstructuren, zodat rugnummer en houding alle aandacht krijgen zonder dat het beeld druk wordt.",
     image: { src: "/work/ronaldo.jpg", width: 1556, height: 2200, alt: "Minimalistische sportposter rond Cristiano Ronaldo" },
   },
   {
     title: "Emporio Armani",
     category: "Advertentiebeeld",
     summary: "Een sfeervolle productvisual voor een parfumcampagne.",
-    text: "Deze compositie draaide om materiaal: glas, vloeistof en licht moesten samen een luxueuze, ingetogen sfeer oproepen. Ik werkte met donkere tinten, bokeh-licht en bloemmotieven op de achtergrond om het flesje extra te laten spreken.",
+    text: "Deze opdracht draaide vooral om materiaal: glas, vloeistof en licht moesten er samen goed uitzien. Ik gebruikte donkere tinten en wat bokeh-licht en bloemen op de achtergrond, zodat het flesje zelf de aandacht houdt.",
+    image: { src: "/work/armani.jpg", width: 1556, height: 2200, alt: "Productvisual voor Emporio Armani parfum" },",
     image: { src: "/work/armani.jpg", width: 1556, height: 2200, alt: "Productvisual voor Emporio Armani parfum" },
   },
   {
