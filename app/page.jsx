@@ -77,7 +77,7 @@ const projects = [
     category: "Advertentiebeeld",
     summary: "Een sfeervolle productvisual voor een parfumcampagne.",
     text: "Deze opdracht draaide vooral om materiaal: glas, vloeistof en licht moesten er samen goed uitzien. Ik gebruikte donkere tinten en wat bokeh-licht en bloemen op de achtergrond, zodat het flesje zelf de aandacht houdt.",
-    image: { src: "/work/armani.jpg", width: 1556, height: 2200, alt: "Productvisual voor Emporio Armani parfum" },",
+    image: { src: "/work/armani.jpg", width: 1556, height: 2200, alt: "Productvisual voor Emporio Armani parfum" }",
     image: { src: "/work/armani.jpg", width: 1556, height: 2200, alt: "Productvisual voor Emporio Armani parfum" },
   },
   {
