@@ -252,7 +252,7 @@ export default function Home() {
 
   return <main>
     <header className="header"><a href="#top" className="logo"><Logo priority /></a><nav aria-label="Hoofdnavigatie"><a href="#werk">Werk</a><a href="#over-mij">Over mij</a><a href="#contact">Contact</a></nav></header>
-    <section className="hero" id="top"><HeroBubbles /><div ref={heroReveal.ref} className={`${heroReveal.className} hero-copy`}><h1>Luka<br /><span>Esseling</span></h1><p className="hero-note">Visuele identiteiten, posters en beeldbewerking. Gemaakt met aandacht voor kleur, compositie en detail.</p></div></section>
+    <section className="hero" id="top"><HeroBubbles /><div ref={heroReveal.ref} className={`${heroReveal.className} hero-copy`}><h1>Luka<br /><span>Esseling</span></h1><p className="hero-note">Grafisch vormgever met een passie voor sterke visuals, branding en creatieve ideeën.</p></div></section>
     <section className="work section" id="werk"><div ref={workIntroReveal.ref} className={`${workIntroReveal.className} section-intro`}><h2>Werk</h2><p>Een selectie uit mijn opdrachten.</p></div><div className="project-list">{projects.map((project, index) => <ProjectRow
       key={project.title}
       project={project}
