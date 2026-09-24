@@ -196,7 +196,7 @@ function ProjectRow({ project, isOpen, onToggle, onHoverOpen, onHoverClose, onIm
   </article>;
 }
 
-const values = ["Oog voor detail", "Betrouwbaar", "Kwaliteit", "Originaliteit", "Passie"];
+const values = ["Oog voor detail", "Betrouwbaar", "Kwaliteit", "Rustig", "Passie"];
 
 export default function Home() {
   const [openProject, setOpenProject] = useState(null);
