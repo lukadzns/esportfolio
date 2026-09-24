@@ -54,7 +54,7 @@ const projects = [
   {
     title: "Astroworld",
     category: "Vrijstaand",
-    summary: "Een donker posterconcept rond Travis Scott.",
+    summary: "Een posterconcept rond Travis Scott.",
     text: "Voor dit project stelde ik een persoon vrij en bouwde ik zelf een achtergrond. De donkere, grunge-achtige sfeer bestaat uit een brandende bus, elementen, belichting en textuur.",
     image: { src: "/work/astroworld.jpg", width: 567, height: 709, alt: "Astroworld posterconcept" },
   },
