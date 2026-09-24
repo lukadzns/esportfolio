@@ -48,7 +48,7 @@ const projects = [
     title: "Silence Kills",
     category: "Awareness poster",
     summary: "Een poster over femicide, zonder het onderwerp te versieren.",
-    text: "Ik koos paars en roze, kleuren die verbonden zijn met vrouwenrechten. De vrouw is een illustratie. De verticale tekst voelt bewust ongemakkelijk; dat past bij de ernst van het onderwerp.",
+    text: "Ik koos paars en roze, kleuren die verbonden zijn met vrouwenrechten. De vrouw is een illustratie. De verticale tekst voelt bewust ongemakkelijk, dat past bij de ernst van het onderwerp.",
     image: { src: "/work/silencekills.jpg", width: 1556, height: 2200, alt: "Awareness poster Silence Kills over femicide" },
   },
   {
